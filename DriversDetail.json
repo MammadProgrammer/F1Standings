@@ -43,6 +43,24 @@
       "birth_date": "1997/10/16",
       "image": "detail_leclerc",
       "debut_year": 2018
+    },
+        {
+      "name": "Max Verstapen",
+      "short_name": "M.Verstapen",
+      "number": 1,
+      "age": 29,
+      "team": "RedBull",
+      "country": "Netherland",
+      "grand_prix_entries": 209,
+      "wins": 63,
+      "poles": 0,
+      "fastest_laps": 0,
+      "championships": 4,
+      "championship_years": [],
+      "podiums": 112,
+      "birth_date": "1997/09/30",
+      "image": "detail_verstapen",
+      "debut_year": 2014
     }
   ]
 }
