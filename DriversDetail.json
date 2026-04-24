@@ -2,14 +2,14 @@
   {
     "driverName": "L.Hamilton",
     "teamName": "Ferrari",
-    "score": 150,
+    "score": 1800,
     "driver_image": "driver_image_hamilton",
     "team_logo": "logo_ferrari"
   },
   {
     "driverName": "C.Leclerc",
     "teamName": "Ferrari",
-    "score": 49,
+    "score": 41,
     "driver_image": "driver_image_leclerc",
     "team_logo": "logo_ferrari"
   },
