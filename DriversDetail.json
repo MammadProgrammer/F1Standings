@@ -2,7 +2,7 @@
   {
     "driverName": "L.Hamilton",
     "teamName": "Ferrari",
-    "score": 51,
+    "score": 41,
     "driver_image": "driver_image_hamilton",
     "team_logo": "logo_ferrari"
   },
@@ -16,7 +16,7 @@
   {
     "driverName": "K.Antonelli",
     "teamName": "Mercedes",
-    "score": 82,
+    "score": 72,
     "driver_image": "driver_image_antonelli",
     "team_logo": "logo_mercedes"
   },
