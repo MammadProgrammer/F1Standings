@@ -1,0 +1,25 @@
+{
+  "constructors": [
+    {
+      "name": "Ferrari",
+      "country": "Italy",
+      "championships": 8,
+      "first_entry": 1950,
+      "team_principal": "Christian Horner",
+      "technical_chief": "Pierre Waché",
+      "car_model": "SF-26",
+      "podiums": 280,
+      "wins": 850,
+
+      "logo": "ferrari",
+      "car_image": "sf26",
+      "flag_code": "italy",
+
+      "driver1_name": "Lewis Hamilton",
+      "driver1_image": "hamilton",
+
+      "driver2_name": "Charles Leclerc",
+      "driver2_image": "leclerc"
+    }
+  ]
+}
