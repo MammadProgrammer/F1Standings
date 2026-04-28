@@ -2,28 +2,28 @@
   {
     "driverName": "L.Hamilton",
     "teamName": "Ferrari",
-    "score": 41,
+    "score": 55,
     "driver_image": "driver_image_hamilton",
     "team_logo": "logo_ferrari"
   },
   {
     "driverName": "C.Leclerc",
     "teamName": "Ferrari",
-    "score": 49,
+    "score": 21,
     "driver_image": "driver_image_leclerc",
     "team_logo": "logo_ferrari"
   },
   {
     "driverName": "K.Antonelli",
     "teamName": "Mercedes",
-    "score": 72,
+    "score": 96,
     "driver_image": "driver_image_antonelli",
     "team_logo": "logo_mercedes"
   },
   {
     "driverName": "G.Russell",
     "teamName": "Mercedes",
-    "score": 63,
+    "score": 25,
     "driver_image": "driver_image_russell",
     "team_logo": "logo_mercedes"
   },
