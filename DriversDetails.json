@@ -1,725 +1,364 @@
-“drivers”: [
-
 {
-
-“name”: “Lewis Hamilton”,
-
-“short_name”: “L.Hamilton”,
-
-“number”: 44,
-
-“age”: 40,
-
-“team”: “Ferrari”,
-
-“country”: “UK”,
-
-“grand_prix_entries”: 356,
-
-“wins”: 105,
-
-“poles”: 104,
-
-“fastest_laps”: 67,
-
-“championships”: 7,
-
-“championship_years”: [2008,2014,2015,2017,2018,2019,2020],
-
-“podiums”: 202,
-
-“birth_date”: “1985/01/07”,
-
-“image”: “detail_hamilton”,
-
-“debut_year”: 2007
-
-},
-
-{
-
-“name”: “Charles Leclerc”,
-
-“short_name”: “C.Leclerc”,
-
-“number”: 16,
-
-“age”: 27,
-
-“team”: “Ferrari”,
-
-“country”: “Monaco”,
-
-“grand_prix_entries”: 149,
-
-“wins”: 8,
-
-“poles”: 26,
-
-“fastest_laps”: 8,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 39,
-
-“birth_date”: “1997/10/16”,
-
-“image”: “detail_leclerc”,
-
-“debut_year”: 2018
-
-},
-
-{
-
-“name”: “Max Verstappen”,
-
-“short_name”: “M.Verstappen”,
-
-“number”: 1,
-
-“age”: 27,
-
-“team”: “Red Bull”,
-
-“country”: “Netherlands”,
-
-“grand_prix_entries”: 209,
-
-“wins”: 62,
-
-“poles”: 40,
-
-“fastest_laps”: 32,
-
-“championships”: 4,
-
-“championship_years”: [2021,2022,2023,2024],
-
-“podiums”: 112,
-
-“birth_date”: “1997/09/30”,
-
-“image”: “detail_verstappen”,
-
-“debut_year”: 2015
-
-},
-
-{
-
-“name”: “Sergio Perez”,
-
-“short_name”: “S.Perez”,
-
-“number”: 11,
-
-“age”: 35,
-
-“team”: “Red Bull”,
-
-“country”: “Mexico”,
-
-“grand_prix_entries”: 281,
-
-“wins”: 6,
-
-“poles”: 3,
-
-“fastest_laps”: 11,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 39,
-
-“birth_date”: “1990/01/26”,
-
-“image”: “detail_perez”,
-
-“debut_year”: 2011
-
-},
-
-{
-
-“name”: “George Russell”,
-
-“short_name”: “G.Russell”,
-
-“number”: 63,
-
-“age”: 27,
-
-“team”: “Mercedes”,
-
-“country”: “UK”,
-
-“grand_prix_entries”: 128,
-
-“wins”: 2,
-
-“poles”: 5,
-
-“fastest_laps”: 7,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 14,
-
-“birth_date”: “1998/02/15”,
-
-“image”: “detail_russell”,
-
-“debut_year”: 2019
-
-},
-
-{
-
-“name”: “Andrea Kimi Antonelli”,
-
-“short_name”: “A.Antonelli”,
-
-“number”: 12,
-
-“age”: 18,
-
-“team”: “Mercedes”,
-
-“country”: “Italy”,
-
-“grand_prix_entries”: 0,
-
-“wins”: 0,
-
-“poles”: 0,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 0,
-
-“birth_date”: “2006/08/25”,
-
-“image”: “detail_antonelli”,
-
-“debut_year”: 2025
-
-},
-
-{
-
-“name”: “Lando Norris”,
-
-“short_name”: “L.Norris”,
-
-“number”: 4,
-
-“age”: 25,
-
-“team”: “McLaren”,
-
-“country”: “UK”,
-
-“grand_prix_entries”: 128,
-
-“wins”: 1,
-
-“poles”: 2,
-
-“fastest_laps”: 10,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 26,
-
-“birth_date”: “1999/11/13”,
-
-“image”: “detail_norris”,
-
-“debut_year”: 2019
-
-},
-
-{
-
-“name”: “Oscar Piastri”,
-
-“short_name”: “O.Piastri”,
-
-“number”: 81,
-
-“age”: 24,
-
-“team”: “McLaren”,
-
-“country”: “Australia”,
-
-“grand_prix_entries”: 46,
-
-“wins”: 0,
-
-“poles”: 0,
-
-“fastest_laps”: 1,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 2,
-
-“birth_date”: “2001/04/06”,
-
-“image”: “detail_piastri”,
-
-“debut_year”: 2023
-
-},
-
-{
-
-“name”: “Fernando Alonso”,
-
-“short_name”: “F.Alonso”,
-
-“number”: 14,
-
-“age”: 43,
-
-“team”: “Aston Martin”,
-
-“country”: “Spain”,
-
-“grand_prix_entries”: 401,
-
-“wins”: 32,
-
-“poles”: 22,
-
-“fastest_laps”: 24,
-
-“championships”: 2,
-
-“championship_years”: [2005,2006],
-
-“podiums”: 106,
-
-“birth_date”: “1981/07/29”,
-
-“image”: “detail_alonso”,
-
-“debut_year”: 2001
-
-},
-
-{
-
-“name”: “Lance Stroll”,
-
-“short_name”: “L.Stroll”,
-
-“number”: 18,
-
-“age”: 26,
-
-“team”: “Aston Martin”,
-
-“country”: “Canada”,
-
-“grand_prix_entries”: 167,
-
-“wins”: 0,
-
-“poles”: 1,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 3,
-
-“birth_date”: “1998/10/29”,
-
-“image”: “detail_stroll”,
-
-“debut_year”: 2017
-
-},
-
-{
-
-“name”: “Pierre Gasly”,
-
-“short_name”: “P.Gasly”,
-
-“number”: 10,
-
-“age”: 29,
-
-“team”: “Alpine”,
-
-“country”: “France”,
-
-“grand_prix_entries”: 153,
-
-“wins”: 1,
-
-“poles”: 0,
-
-“fastest_laps”: 3,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 4,
-
-“birth_date”: “1996/02/07”,
-
-“image”: “detail_gasly”,
-
-“debut_year”: 2017
-
-},
-
-{
-
-“name”: “Esteban Ocon”,
-
-“short_name”: “E.Ocon”,
-
-“number”: 31,
-
-“age”: 28,
-
-“team”: “Alpine”,
-
-“country”: “France”,
-
-“grand_prix_entries”: 156,
-
-“wins”: 1,
-
-“poles”: 0,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 4,
-
-“birth_date”: “1996/09/17”,
-
-“image”: “detail_ocon”,
-
-“debut_year”: 2016
-
-},
-
-{
-
-“name”: “Alex Albon”,
-
-“short_name”: “A.Albon”,
-
-“number”: 23,
-
-“age”: 29,
-
-“team”: “Williams”,
-
-“country”: “Thailand”,
-
-“grand_prix_entries”: 103,
-
-“wins”: 0,
-
-“poles”: 0,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 2,
-
-“birth_date”: “1996/03/23”,
-
-“image”: “detail_albon”,
-
-“debut_year”: 2019
-
-},
-
-{
-
-“name”: “Logan Sargeant”,
-
-“short_name”: “L.Sargeant”,
-
-“number”: 2,
-
-“age”: 24,
-
-“team”: “Williams”,
-
-“country”: “USA”,
-
-“grand_prix_entries”: 46,
-
-“wins”: 0,
-
-“poles”: 0,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 0,
-
-“birth_date”: “2000/12/31”,
-
-“image”: “detail_sargeant”,
-
-“debut_year”: 2023
-
-},
-
-{
-
-“name”: “Kevin Magnussen”,
-
-“short_name”: “K.Magnussen”,
-
-“number”: 20,
-
-“age”: 32,
-
-“team”: “Haas”,
-
-“country”: “Denmark”,
-
-“grand_prix_entries”: 185,
-
-“wins”: 0,
-
-“poles”: 1,
-
-“fastest_laps”: 2,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 1,
-
-“birth_date”: “1992/10/05”,
-
-“image”: “detail_magnussen”,
-
-“debut_year”: 2014
-
-},
-
-{
-
-“name”: “Nico Hulkenberg”,
-
-“short_name”: “N.Hulkenberg”,
-
-“number”: 27,
-
-“age”: 37,
-
-“team”: “Haas”,
-
-“country”: “Germany”,
-
-“grand_prix_entries”: 226,
-
-“wins”: 0,
-
-“poles”: 1,
-
-“fastest_laps”: 2,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 0,
-
-“birth_date”: “1987/08/19”,
-
-“image”: “detail_hulkenberg”,
-
-“debut_year”: 2010
-
-},
-
-{
-
-“name”: “Yuki Tsunoda”,
-
-“short_name”: “Y.Tsunoda”,
-
-“number”: 22,
-
-“age”: 25,
-
-“team”: “RB”,
-
-“country”: “Japan”,
-
-“grand_prix_entries”: 89,
-
-“wins”: 0,
-
-“poles”: 0,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 0,
-
-“birth_date”: “2000/05/11”,
-
-“image”: “detail_tsunoda”,
-
-“debut_year”: 2021
-
-},
-
-{
-
-“name”: “Daniel Ricciardo”,
-
-“short_name”: “D.Ricciardo”,
-
-“number”: 3,
-
-“age”: 35,
-
-“team”: “RB”,
-
-“country”: “Australia”,
-
-“grand_prix_entries”: 257,
-
-“wins”: 8,
-
-“poles”: 3,
-
-“fastest_laps”: 17,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 32,
-
-“birth_date”: “1989/07/01”,
-
-“image”: “detail_ricciardo”,
-
-“debut_year”: 2011
-
-},
-
-{
-
-“name”: “Valtteri Bottas”,
-
-“short_name”: “V.Bottas”,
-
-“number”: 77,
-
-“age”: 35,
-
-“team”: “Sauber”,
-
-“country”: “Finland”,
-
-“grand_prix_entries”: 246,
-
-“wins”: 10,
-
-“poles”: 20,
-
-“fastest_laps”: 19,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 67,
-
-“birth_date”: “1989/08/28”,
-
-“image”: “detail_bottas”,
-
-“debut_year”: 2013
-
-},
-
-{
-
-“name”: “Zhou Guanyu”,
-
-“short_name”: “G.Zhou”,
-
-“number”: 24,
-
-“age”: 26,
-
-“team”: “Sauber”,
-
-“country”: “China”,
-
-“grand_prix_entries”: 68,
-
-“wins”: 0,
-
-“poles”: 0,
-
-“fastest_laps”: 0,
-
-“championships”: 0,
-
-“championship_years”: [],
-
-“podiums”: 0,
-
-“birth_date”: “1999/05/30”,
-
-“image”: “detail_zhou”,
-
-“debut_year”: 2022
-
-}
-
-]
-
+  "drivers": [
+    {
+      "name": "Max Verstappen",
+      "short_name": "M.Verstappen",
+      "number": 1,
+      "age": 27,
+      "team": "Red Bull",
+      "country": "Netherlands",
+      "grand_prix_entries": 209,
+      "wins": 62,
+      "poles": 40,
+      "fastest_laps": 32,
+      "championships": 4,
+      "championship_years": [2021, 2022, 2023, 2024],
+      "podiums": 112,
+      "birth_date": "1997/09/30",
+      "image": "detail_verstappen",
+      "debut_year": 2015
+    },
+    {
+      "name": "Sergio Perez",
+      "short_name": "S.Perez",
+      "number": 11,
+      "age": 35,
+      "team": "Red Bull",
+      "country": "Mexico",
+      "grand_prix_entries": 281,
+      "wins": 6,
+      "poles": 3,
+      "fastest_laps": 11,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 39,
+      "birth_date": "1990/01/26",
+      "image": "detail_perez",
+      "debut_year": 2011
+    },
+    {
+      "name": "Lewis Hamilton",
+      "short_name": "L.Hamilton",
+      "number": 44,
+      "age": 40,
+      "team": "Ferrari",
+      "country": "UK",
+      "grand_prix_entries": 356,
+      "wins": 105,
+      "poles": 104,
+      "fastest_laps": 67,
+      "championships": 7,
+      "championship_years": [2008, 2014, 2015, 2017, 2018, 2019, 2020],
+      "podiums": 202,
+      "birth_date": "1985/01/07",
+      "image": "detail_hamilton",
+      "debut_year": 2007
+    },
+    {
+      "name": "Charles Leclerc",
+      "short_name": "C.Leclerc",
+      "number": 16,
+      "age": 27,
+      "team": "Ferrari",
+      "country": "Monaco",
+      "grand_prix_entries": 149,
+      "wins": 8,
+      "poles": 26,
+      "fastest_laps": 8,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 39,
+      "birth_date": "1997/10/16",
+      "image": "detail_leclerc",
+      "debut_year": 2018
+    },
+    {
+      "name": "George Russell",
+      "short_name": "G.Russell",
+      "number": 63,
+      "age": 27,
+      "team": "Mercedes",
+      "country": "UK",
+      "grand_prix_entries": 128,
+      "wins": 2,
+      "poles": 5,
+      "fastest_laps": 7,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 14,
+      "birth_date": "1998/02/15",
+      "image": "detail_russell",
+      "debut_year": 2019
+    },
+    {
+      "name": "Andrea Kimi Antonelli",
+      "short_name": "A.Antonelli",
+      "number": 12,
+      "age": 18,
+      "team": "Mercedes",
+      "country": "Italy",
+      "grand_prix_entries": 0,
+      "wins": 0,
+      "poles": 0,
+      "fastest_laps": 0,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 0,
+      "birth_date": "2006/08/25",
+      "image": "detail_antonelli",
+      "debut_year": 2025
+    },
+    {
+      "name": "Lando Norris",
+      "short_name": "L.Norris",
+      "number": 4,
+      "age": 25,
+      "team": "McLaren",
+      "country": "UK",
+      "grand_prix_entries": 128,
+      "wins": 1,
+      "poles": 2,
+      "fastest_laps": 10,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 26,
+      "birth_date": "1999/11/13",
+      "image": "detail_norris",
+      "debut_year": 2019
+    },
+    {
+      "name": "Oscar Piastri",
+      "short_name": "O.Piastri",
+      "number": 81,
+      "age": 24,
+      "team": "McLaren",
+      "country": "Australia",
+      "grand_prix_entries": 46,
+      "wins": 0,
+      "poles": 0,
+      "fastest_laps": 1,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 2,
+      "birth_date": "2001/04/06",
+      "image": "detail_piastri",
+      "debut_year": 2023
+    },
+    {
+      "name": "Fernando Alonso",
+      "short_name": "F.Alonso",
+      "number": 14,
+      "age": 43,
+      "team": "Aston Martin",
+      "country": "Spain",
+      "grand_prix_entries": 401,
+      "wins": 32,
+      "poles": 22,
+      "fastest_laps": 24,
+      "championships": 2,
+      "championship_years": [2005, 2006],
+      "podiums": 106,
+      "birth_date": "1981/07/29",
+      "image": "detail_alonso",
+      "debut_year": 2001
+    },
+    {
+      "name": "Lance Stroll",
+      "short_name": "L.Stroll",
+      "number": 18,
+      "age": 26,
+      "team": "Aston Martin",
+      "country": "Canada",
+      "grand_prix_entries": 167,
+      "wins": 0,
+      "poles": 1,
+      "fastest_laps": 0,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 3,
+      "birth_date": "1998/10/29",
+      "image": "detail_stroll",
+      "debut_year": 2017
+    },
+    {
+      "name": "Pierre Gasly",
+      "short_name": "P.Gasly",
+      "number": 10,
+      "age": 29,
+      "team": "Alpine",
+      "country": "France",
+      "grand_prix_entries": 153,
+      "wins": 1,
+      "poles": 0,
+      "fastest_laps": 3,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 4,
+      "birth_date": "1996/02/07",
+      "image": "detail_gasly",
+      "debut_year": 2017
+    },
+    {
+      "name": "Esteban Ocon",
+      "short_name": "E.Ocon",
+      "number": 31,
+      "age": 28,
+      "team": "Alpine",
+      "country": "France",
+      "grand_prix_entries": 156,
+      "wins": 1,
+      "poles": 0,
+      "fastest_laps": 0,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 4,
+      "birth_date": "1996/09/17",
+      "image": "detail_ocon",
+      "debut_year": 2016
+    },
+    {
+      "name": "Yuki Tsunoda",
+      "short_name": "Y.Tsunoda",
+      "number": 22,
+      "age": 24,
+      "team": "RB",
+      "country": "Japan",
+      "grand_prix_entries": 87,
+      "wins": 0,
+      "poles": 0,
+      "fastest_laps": 1,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 0,
+      "birth_date": "2000/05/11",
+      "image": "detail_tsunoda",
+      "debut_year": 2021
+    },
+    {
+      "name": "Daniel Ricciardo",
+      "short_name": "D.Ricciardo",
+      "number": 3,
+      "age": 35,
+      "team": "RB",
+      "country": "Australia",
+      "grand_prix_entries": 257,
+      "wins": 8,
+      "poles": 3,
+      "fastest_laps": 17,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 32,
+      "birth_date": "1989/07/01",
+      "image": "detail_ricciardo",
+      "debut_year": 2011
+    },
+    {
+      "name": "Alexander Albon",
+      "short_name": "A.Albon",
+      "number": 23,
+      "age": 29,
+      "team": "Williams",
+      "country": "Thailand",
+      "grand_prix_entries": 98,
+      "wins": 0,
+      "poles": 0,
+      "fastest_laps": 0,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 2,
+      "birth_date": "1996/03/23",
+      "image": "detail_albon",
+      "debut_year": 2019
+    },
+    {
+      "name": "Logan Sargeant",
+      "short_name": "L.Sargeant",
+      "number": 2,
+      "age": 24,
+      "team": "Williams",
+      "country": "USA",
+      "grand_prix_entries": 36,
+      "wins": 0,
+      "poles": 0,
+      "fastest_laps": 0,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 0,
+      "birth_date": "2000/12/31",
+      "image": "detail_sargeant",
+      "debut_year": 2023
+    },
+    {
+      "name": "Valtteri Bottas",
+      "short_name": "V.Bottas",
+      "number": 77,
+      "age": 35,
+      "team": "Sauber",
+      "country": "Finland",
+      "grand_prix_entries": 246,
+      "wins": 10,
+      "poles": 20,
+      "fastest_laps": 19,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 67,
+      "birth_date": "1989/08/28",
+      "image": "detail_bottas",
+      "debut_year": 2013
+    },
+    {
+      "name": "Guanyu Zhou",
+      "short_name": "G.Zhou",
+      "number": 24,
+      "age": 25,
+      "team": "Sauber",
+      "country": "China",
+      "grand_prix_entries": 68,
+      "wins": 0,
+      "poles": 0,
+      "fastest_laps": 0,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 0,
+      "birth_date": "1999/05/30",
+      "image": "detail_zhou",
+      "debut_year": 2022
+    },
+    {
+      "name": "Kevin Magnussen",
+      "short_name": "K.Magnussen",
+      "number": 20,
+      "age": 32,
+      "team": "Haas",
+      "country": "Denmark",
+      "grand_prix_entries": 180,
+      "wins": 0,
+      "poles": 1,
+      "fastest_laps": 2,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 1,
+      "birth_date": "1992/10/05",
+      "image": "detail_magnussen",
+      "debut_year": 2014
+    },
+    {
+      "name": "Nico Hulkenberg",
+      "short_name": "N.Hulkenberg",
+      "number": 27,
+      "age": 37,
+      "team": "Haas",
+      "country": "Germany",
+      "grand_prix_entries": 221,
+      "wins": 0,
+      "poles": 1,
+      "fastest_laps": 2,
+      "championships": 0,
+      "championship_years": [],
+      "podiums": 0,
+      "birth_date": "1987/08/19",
+      "image": "detail_hulkenberg",
+      "debut_year": 2010
+    }
+  ]
 }
