@@ -2,70 +2,70 @@
   {
     "driverName": "L.Hamilton",
     "teamName": "Ferrari",
-    "score": 41,
+    "score": 72,
     "driver_image": "driver_image_hamilton",
     "team_logo": "logo_ferrari"
   },
   {
     "driverName": "C.Leclerc",
     "teamName": "Ferrari",
-    "score": 49,
+    "score": 75,
     "driver_image": "driver_image_leclerc",
     "team_logo": "logo_ferrari"
   },
   {
     "driverName": "K.Antonelli",
     "teamName": "Mercedes",
-    "score": 72,
+    "score": 131,
     "driver_image": "driver_image_antonelli",
     "team_logo": "logo_mercedes"
   },
   {
     "driverName": "G.Russell",
     "teamName": "Mercedes",
-    "score": 63,
+    "score": 88,
     "driver_image": "driver_image_russell",
     "team_logo": "logo_mercedes"
   },
   {
     "driverName": "L.Norris",
     "teamName": "McLaren",
-    "score": 25,
+    "score": 58,
     "driver_image": "driver_image_norris",
     "team_logo": "logo_mclaren"
   },
   {
     "driverName": "O.Piastri",
     "teamName": "McLaren",
-    "score": 21,
+    "score": 48,
     "driver_image": "driver_image_piastri",
     "team_logo": "logo_mclaren"
   },
   {
     "driverName": "P.Gasly",
     "teamName": "Alpine",
-    "score": 15,
+    "score": 20,
     "driver_image": "driver_image_gasly",
     "team_logo": "logo_alpine"
   },
   {
     "driverName": "M.Verstappen",
     "teamName": "Red Bull",
-    "score": 12,
+    "score": 43,
     "driver_image": "driver_image_verstapen",
     "team_logo": "logo_redbull"
   },
   {
     "driverName": "L.Lawson",
     "teamName": "Racing Bulls",
-    "score": 10,
+    "score": 16,
     "driver_image": "driver_image_lawson",
     "team_logo": "logo_racingbulls"
   },
   {
     "driverName": "O.Bearman",
     "teamName": "Haas",
-    "score": 17,
+    "score": 18,
     "driver_image": "driver_image_bearman",
     "team_logo": "haas"
   },
@@ -79,14 +79,14 @@
   {
     "driverName": "A.Lindblad",
     "teamName": "Racing Bulls",
-    "score": 4,
+    "score": 5,
     "driver_image": "driver_image_lindblad",
     "team_logo": "logo_racingbulls"
   },
   {
     "driverName": "I.Hadjar",
     "teamName": "Red Bull",
-    "score": 4,
+    "score": 14,
     "driver_image": "driver_image_hadjar",
     "team_logo": "logo_redbull"
   },
@@ -100,7 +100,7 @@
   {
     "driverName": "C.Sainz",
     "teamName": "Williams",
-    "score": 2,
+    "score": 6,
     "driver_image": "driver_image_sainz",
     "team_logo": "logo_williams"
   },
@@ -114,14 +114,14 @@
   {
     "driverName": "F.Colapinto",
     "teamName": "Alpine",
-    "score": 1,
+    "score": 15,
     "driver_image": "driver_image_colapinto",
     "team_logo": "logo_alpine"
   },
   {
     "driverName": "A.Albon",
     "teamName": "Williams",
-    "score": 0,
+    "score": 1,
     "driver_image": "driver_image_albon",
     "team_logo": "logo_williams"
   },
